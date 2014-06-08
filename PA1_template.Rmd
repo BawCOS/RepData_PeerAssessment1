@@ -1,5 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 
+<<<<<<< HEAD
 ## Loading and preprocessing the data
 ```{r}
 PA1RR <- read.csv("~/Classes/MOOC/Johns Hopkins Course Materials/Reproducible Research/Data/activity.csv")
@@ -126,5 +127,3 @@ xyplot(steps~interval|Work,PA1stepaveWork,type="l",
      main="Average Number of Steps Per Day for Each Interval by Work Week",
      layout=c(1,2))
 ```
-
-
